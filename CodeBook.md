@@ -16,11 +16,9 @@ The raw dataset included the following files:
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
 Identifiers 
 
-•	subject
-Subject identifier, integer, ranges from 1 to 30.
+•	subject- Subject identifier, integer, ranges from 1 to 30.
 
-•	activity
-Activity identifier, string with 6 possible values:
+•	activity- Activity identifier, string with 6 possible values:
 o	WALKING
 o	WALKING_UPSTAIRS
 o	WALKING_DOWNSTAIRS
